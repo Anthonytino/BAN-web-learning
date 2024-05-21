@@ -13,6 +13,18 @@ a {
     color: blue;
 }
 
+figure {
+    margin: 0;
+}
+
+figure.medium {
+    max-width: 800px;
+}
+
+figcaption {
+    font-size: 0.75em;
+}
+
 nav ul,
 nav li {
     list-style-type: none;
